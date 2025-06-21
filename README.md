@@ -1,2 +1,2 @@
 # Java Ninja Basics 🥷☕#
-- All packages could be find in /src.
+- All packages are located inside the /src directory.
